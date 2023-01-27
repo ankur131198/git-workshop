@@ -1,5 +1,5 @@
 let a=10;
 let b=11;
-let d=11;
-const c=(a+b+d);
-
+let g=11;
+let je=14;
+const c=(a+d+g+je);
